@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 
-//ZEINA NADER  ID:6832
-//NADINE YASSER ID:7154
 package linkchecker;
 
 import java.io.IOException;
